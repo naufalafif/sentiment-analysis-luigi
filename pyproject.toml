@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "os_luigi_sentimen_analisis_id"
+version = "0.1.0"
+description = ""
+authors = ["Naufal Afif <naufalafif58@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+luigi = "^3.0.2"
+scikit-learn = "^0.23.2"
+pysastrawi = "^1.2.0"
+fastapi = "^0.62.0"
+uvicorn = "^0.13.0"
+jupyter = "^1.0.0"
+pandas = "^1.1.5"
+nltk = "^3.5"
+toolz = "^0.11.1"
+fastapi-utils = "^0.2.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
