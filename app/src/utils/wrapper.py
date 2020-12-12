@@ -24,7 +24,7 @@ def wrapper_factory(object_param):
         
         def to_file(self, file_io):
             """
-                dump vectorizer object to binary file
+                dump object to binary file
             """
             pickle.dump(self.__object, file_io)
 
