@@ -11,6 +11,7 @@ Sentiment Analysis App with Luigi Pipelines
 <img style="max-width: 45%; margin: 10px;" src="https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737251482_api.png">
 </div>
 
+
 ❓ **How To Use**
 
 1. Install Dependencies
@@ -35,7 +36,7 @@ without makefile
 
     poetry run luigid --logdir ./logs
 
-******Run Pipeline**
+**Run Pipeline**
 with makefile
 
     make run-pipeline
@@ -44,7 +45,7 @@ without makefile
 
     poetry run python ./app/run_pipeline.py Entrypoint
 
-******Run API**
+**Run API**
 with makefile
 
     make run
@@ -55,8 +56,8 @@ without makefile
 
 📔 **To Do**
 
-[ ] Add Dockerfile & Docker Compose File
-[ ] Create Frontend
-[ ] Add Unittest
-[ ] Add Doctest
+- [ ] Add Dockerfile & Docker Compose File
+- [ ] Create Frontend
+- [ ] Add Unittest
+- [ ] Add Doctest
 
