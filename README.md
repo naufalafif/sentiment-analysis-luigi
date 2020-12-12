@@ -25,6 +25,7 @@ to run this app u need to add this app folder into PYTHONPATH. here some referen
 then u can run this app using existing makefile or run it manualy.
 
 **Run Luigi**
+
 with makefile
 
     make run-luigi
@@ -34,6 +35,7 @@ without makefile
     poetry run luigid --logdir ./logs
 
 **Run Pipeline**
+
 with makefile
 
     make run-pipeline
@@ -43,6 +45,7 @@ without makefile
     poetry run python ./app/run_pipeline.py Entrypoint
 
 **Run API**
+
 with makefile
 
     make run
