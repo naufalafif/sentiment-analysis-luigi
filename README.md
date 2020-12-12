@@ -39,7 +39,7 @@ without makefile
 
     poetry run luigid --logdir ./logs
 
-******Run Pipeline**
+**Run Pipeline**
 with makefile
 
     make run-pipeline
@@ -48,7 +48,7 @@ without makefile
 
     poetry run python ./app/run_pipeline.py Entrypoint
 
-******Run API**
+**Run API**
 with makefile
 
     make run
