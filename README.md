@@ -4,10 +4,11 @@ Sentiment Analysis App with Luigi Pipelines
 🖼️ **Screenshot**
 
 API
-****
-![](https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737267427_openapi-docs.png)
-![](https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737251482_api.png)
 
+<div style='display:block'>
+<img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737267427_openapi-docs.png'>
+<img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737251482_api.png'>
+</div>
 
 Luigi Pipelines
 
