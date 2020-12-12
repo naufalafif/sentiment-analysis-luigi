@@ -1,0 +1,1 @@
+python ./app/run_pipeline.py Entrypoint &
