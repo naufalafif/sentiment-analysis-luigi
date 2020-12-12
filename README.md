@@ -3,18 +3,12 @@ Sentiment Analysis App with Luigi Pipelines
 
 🖼️ **Screenshot**
 
-API
-
 <div style='display:block'>
 <img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737267427_openapi-docs.png'>
 <img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737251482_api.png'>
+<img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737280082_luigi-dashboard.png'>
+<img src='https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737276571_luigi-depgraph.png'>
 </div>
-
-Luigi Pipelines
-
-![](https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737280082_luigi-dashboard.png)
-![](https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737276571_luigi-depgraph.png)
-
 
 ❓ **How To Use**
 
