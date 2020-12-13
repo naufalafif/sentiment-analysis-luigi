@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+    container_name: ml-luigi
+    ports:
+    - 80:80
+    - 8082:8082
+    volumes:
+    - dataset:/app/dataset
+    - preprocessed_dataset:/app/preprocessed_dataset
+    - model:/app/app/src/model
+volumes:
+  dataset:
+  preprocessed_dataset:
+  model:
