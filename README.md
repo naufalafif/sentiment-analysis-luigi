@@ -9,6 +9,19 @@ Sentiment Analysis App with Luigi Pipelines
 ![](https://paper-attachments.dropbox.com/s_2EAB53F891FDAF5B66CFA57800D2345F9C33E58D86F3B19A9CD5BBB46B2FE1D4_1607737251482_api.png)
 
 
+## Routes
+
+
+#### Sentiment API. Port 80
+
+- / contain link to each api version
+- /v1 return version detail information
+- /v1/sentiment?text api to check sentiment of string
+- /v1/control/control/start-pipeline api to start luigi piple
+
+#### Luigi Web Dashboard. Port 8082
+
+
 ## ❓ **How To Use**
 
 
