@@ -56,7 +56,7 @@ without makefile
 
 ## 📔 **To Do**
 
-- [ ] Add Dockerfile & Docker Compose File
+- [x] Add Dockerfile & Docker Compose File
 - [ ] Create Frontend
 - [ ] Add Unittest
 - [ ] Add Doctest
