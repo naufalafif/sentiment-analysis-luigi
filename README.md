@@ -5,8 +5,8 @@ Sentiment Analysis App with Luigi Pipelines
 
 ![](/screenshot/luigi-dashboard.png)
 ![](/screenshot/luigi-depgraph.png)
-![](/screenshot/openapi-docs.png)
-![](/screenshot/api.png)
+![](/screenshot/openapi-docs-v1.png)
+![](/screenshot/api-v1.png)
 
 
 ## Routes
